@@ -1,4 +1,4 @@
-# Lecciones 2D 🎮
+# Actividad 1: Videojuego en 2D con Luis Canary 🎮
 
 ![Tutoriales](https://i.ytimg.com/vi/-m7ZaHhkDAc/maxresdefault.jpg)
 
